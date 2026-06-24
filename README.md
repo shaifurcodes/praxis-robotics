@@ -13,7 +13,7 @@ step by step, beginner friendly, full code.
 | 160° FV camera | Wide angle vision |
 | 77° FV camera | Depth and detail |
 | IMU | Orientation and motion |
-| Motor encoders | Odometry |
+| Yahboom Motor encoders | Odometry |
 
 ## Tutorial Plan
 
