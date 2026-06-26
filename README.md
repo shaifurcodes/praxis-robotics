@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/logo.png" alt="Praxis Robotics Logo" width="600">
+</p>
+
 # Robotics Tutorials for Beginners
 
 Building an LLM-enabled robot car — 
