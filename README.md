@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/logo.png" alt="Praxis Robotics Logo" width="600">
+  <img src="assets/images/praxis-robotics-logo.png" alt="Praxis Robotics Logo" width="600">
 </p>
 
 # Robotics Tutorials for Beginners
