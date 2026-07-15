@@ -21,7 +21,7 @@ step by step, beginner friendly, full code.
 
 ## Tutorial Plan
 
-- [x ] Hardware assembly and wiring
+- [x] Hardware assembly and wiring
 - [ ] ROS2 setup on Jetson Orin Nano
 - [ ] RPLidar C1 integration
 - [ ] Camera pipeline setup
