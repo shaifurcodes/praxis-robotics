@@ -22,13 +22,13 @@ step by step, beginner friendly, full code.
 ## Tutorial Plan
 
 - [x] Hardware assembly and wiring
-- [ ] ROS2 setup on Jetson Orin Nano
-- [ ] RPLidar C1 integration
-- [ ] Camera pipeline setup
-- [ ] IMU + encoder fusion
-- [ ] Local LLM integration (llama.cpp)
-- [ ] LeRobot arm control
+- [x] ROS2 setup on Jetson Orin Nano
+- [x] Local LLM integration (llama.cpp)
+- [ ] IMU integration
+- [ ] LIDAR integration
+- [ ] Camera integration 
 - [ ] Full SLAM navigation
+- [ ] LeRobot arm control
 - [ ] LLM-guided task execution
 
 ## Status
