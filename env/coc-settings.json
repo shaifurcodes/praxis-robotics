@@ -1,0 +1,13 @@
+{
+    "suggest.noselect": true,
+    "suggest.snippetIndicator": "",
+    "clangd.arguments": [
+        "--background-index",
+        "--clang-tidy",
+        "--completion-style=detailed",
+        "--header-insertion=never",
+        "--function-arg-placeholders=false"
+    ],
+    "clangd.fallbackFlags": ["-std=c++17"],
+    "inlayHint.enable": false
+}
